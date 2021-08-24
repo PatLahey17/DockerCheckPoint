@@ -1,0 +1,5 @@
+node_modules
+.DS_store
+npm-debug.log
+
+# all these are ignored by docker when it makes an image with these files 
